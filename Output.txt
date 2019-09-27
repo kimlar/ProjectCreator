@@ -1,0 +1,177 @@
+Generating...
+
+Project location: C:\Projects\MyProject
+Project directory structure:
+/
+MyProject
+	/
+	Assets
+	Docs
+	Game
+		/
+		Licenses
+	Libs
+	Source
+		/
+		Project
+	Temp
+
+Creating the solution file: Done
+Creating the project file: Done
+Creating the project filters file: Done
+Creating the project user file: Done
+Creating the Main.cpp file: Done
+Creating the pch.h file (Precompiled Headers): Done
+Creating the pch.cpp file (Precompiled Headers): Done
+Creating the DeclareDPIAware.manifest file: Done
+Deploying files:
+	Assets\test_image.png	Done
+	Docs\Project_Setup_Specifications.txt	Done
+Adding SDL2 library to the project:
+		C:\Projects\MyProject\Libs\SDL2\Readme.txt
+		C:\Projects\MyProject\Libs\SDL2\include\begin_code.h
+		C:\Projects\MyProject\Libs\SDL2\include\close_code.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_assert.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_atomic.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_audio.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_bits.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_blendmode.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_clipboard.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_config.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_config.h.cmake
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_config.h.in
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_config_android.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_config_iphoneos.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_config_macosx.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_config_minimal.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_config_pandora.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_config_psp.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_config_windows.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_config_winrt.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_config_wiz.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_copying.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_cpuinfo.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_egl.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_endian.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_error.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_events.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_filesystem.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_gamecontroller.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_gesture.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_haptic.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_hints.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_joystick.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_keyboard.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_keycode.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_loadso.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_log.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_main.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_messagebox.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_mouse.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_mutex.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_name.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_opengl.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_opengles.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_opengles2.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_opengles2_gl2.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_opengles2_gl2ext.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_opengles2_gl2platform.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_opengles2_khrplatform.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_opengl_glext.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_pixels.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_platform.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_power.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_quit.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_rect.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_render.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_revision.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_rwops.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_scancode.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_shape.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_stdinc.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_surface.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_system.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_syswm.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_test.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_test_assert.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_test_common.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_test_compare.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_test_crc32.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_test_font.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_test_fuzzer.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_test_harness.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_test_images.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_test_log.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_test_md5.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_test_random.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_thread.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_timer.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_touch.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_types.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_version.h
+		C:\Projects\MyProject\Libs\SDL2\include\SDL_video.h
+		C:\Projects\MyProject\Libs\SDL2\lib\SDL2.dll
+		C:\Projects\MyProject\Libs\SDL2\lib\SDL2.lib
+		C:\Projects\MyProject\Libs\SDL2\lib\SDL2main.lib
+		C:\Projects\MyProject\Libs\SDL2\lib\SDL2main_d.lib
+		C:\Projects\MyProject\Libs\SDL2\lib\SDL2_d.dll
+		C:\Projects\MyProject\Libs\SDL2\lib\SDL2_d.lib
+		C:\Projects\MyProject\Libs\SDL2\lib\licenses\LICENSE.SDL2.txt
+Copying DLLs: SDL2 Done
+Deploy licenses: SDL2 Done
+
+Done
+Adding SDL2_gpu library to the project:
+		C:\Projects\MyProject\Libs\SDL2_gpu\Readme.txt
+		C:\Projects\MyProject\Libs\SDL2_gpu\include\SDL_gpu.h
+		C:\Projects\MyProject\Libs\SDL2_gpu\include\SDL_gpu_GLES_1.h
+		C:\Projects\MyProject\Libs\SDL2_gpu\include\SDL_gpu_GLES_2.h
+		C:\Projects\MyProject\Libs\SDL2_gpu\include\SDL_gpu_GLES_3.h
+		C:\Projects\MyProject\Libs\SDL2_gpu\include\SDL_gpu_OpenGL_1.h
+		C:\Projects\MyProject\Libs\SDL2_gpu\include\SDL_gpu_OpenGL_1_BASE.h
+		C:\Projects\MyProject\Libs\SDL2_gpu\include\SDL_gpu_OpenGL_2.h
+		C:\Projects\MyProject\Libs\SDL2_gpu\include\SDL_gpu_OpenGL_3.h
+		C:\Projects\MyProject\Libs\SDL2_gpu\include\SDL_gpu_OpenGL_4.h
+		C:\Projects\MyProject\Libs\SDL2_gpu\include\SDL_gpu_RendererImpl.h
+		C:\Projects\MyProject\Libs\SDL2_gpu\lib\SDL2_gpu.dll
+		C:\Projects\MyProject\Libs\SDL2_gpu\lib\SDL2_gpu.lib
+		C:\Projects\MyProject\Libs\SDL2_gpu\lib\SDL2_gpu_d.dll
+		C:\Projects\MyProject\Libs\SDL2_gpu\lib\SDL2_gpu_d.lib
+		C:\Projects\MyProject\Libs\SDL2_gpu\lib\licenses\LICENSE.SDL2_gpu.txt
+Copying DLLs: SDL2_gpu Done
+Deploy licenses: SDL2_gpu Done
+
+Done
+Adding SDL2_mixer library to the project:
+		C:\Projects\MyProject\Libs\SDL2_mixer\Readme.txt
+		C:\Projects\MyProject\Libs\SDL2_mixer\include\SDL_mixer.h
+		C:\Projects\MyProject\Libs\SDL2_mixer\lib\extra.zip
+		C:\Projects\MyProject\Libs\SDL2_mixer\lib\libogg-0.dll
+		C:\Projects\MyProject\Libs\SDL2_mixer\lib\libvorbis-0.dll
+		C:\Projects\MyProject\Libs\SDL2_mixer\lib\libvorbisfile-3.dll
+		C:\Projects\MyProject\Libs\SDL2_mixer\lib\SDL2_mixer.dll
+		C:\Projects\MyProject\Libs\SDL2_mixer\lib\SDL2_mixer.lib
+		C:\Projects\MyProject\Libs\SDL2_mixer\lib\SDL2_mixer_d.dll
+		C:\Projects\MyProject\Libs\SDL2_mixer\lib\SDL2_mixer_d.lib
+		C:\Projects\MyProject\Libs\SDL2_mixer\lib\licenses\LICENSE.ogg-vorbis.txt
+		C:\Projects\MyProject\Libs\SDL2_mixer\lib\licenses\LICENSE.SDL2_mixer.txt
+Copying DLLs: SDL2_mixer Done
+Deploy licenses: SDL2_mixer Done
+
+Done
+Adding SDL2_net library to the project:
+		C:\Projects\MyProject\Libs\SDL2_net\Readme.txt
+		C:\Projects\MyProject\Libs\SDL2_net\include\SDL_net.h
+		C:\Projects\MyProject\Libs\SDL2_net\lib\SDL2_net.dll
+		C:\Projects\MyProject\Libs\SDL2_net\lib\SDL2_net.lib
+		C:\Projects\MyProject\Libs\SDL2_net\lib\SDL2_net_d.dll
+		C:\Projects\MyProject\Libs\SDL2_net\lib\SDL2_net_d.lib
+		C:\Projects\MyProject\Libs\SDL2_net\lib\licenses\LICENSE.SDL2_net.txt
+Copying DLLs: SDL2_net Done
+Deploy licenses: SDL2_net Done
+
+Done
+Deploying done
+
+COMPLETE
